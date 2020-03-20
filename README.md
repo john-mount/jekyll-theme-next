@@ -9,5 +9,5 @@ It's looking for resonances.
 
 
 
-Thanks for @Simpleyyt for providing this blog theme.
+Thanks for @Simpleyyt providing this blog theme.
 
